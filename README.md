@@ -26,12 +26,13 @@ Tasks :
       ·Standardize the format of the acquired data.    
       ·Implement a consistent naming convention for the reports.
       ·Categorize data by company and publication date for easy retrieval.
+      ·Find a way to convert pdf data into textual data.
 
    ·Task 2.2 - Cleaning -
       ·Scrutinize the acquired links for duplicates and rectify as necessary.  
       ·Address any inconsistencies in the report URLs.
 
-3. Data Preprocessing -
+4. Data Preprocessing -
    
    ·Task 3.1 - Initial Cleaning
       ·Conduct an initial cleanup to remove extraneous information from report links or metadata. 
@@ -45,7 +46,7 @@ Tasks :
       ·Text Extraction with Regular Expressions (Develop regular expressions to identify and extract specific patterns within the reports, such as sustainability KPIs ,Utilize regular expressions to automate the extraction process.)
       ·Implement chunking techniques to break down large reports into smaller, more manageable sections. This makes the information more digestible and easier to process.
 
-4. Evaluation -
+5. Evaluation -
    
     ·Task 4.1 - Data Quality Metrics
        ·Define a set of metrics to assess the quality of the acquired data, encompassing completeness, consistency, and relevance. 
